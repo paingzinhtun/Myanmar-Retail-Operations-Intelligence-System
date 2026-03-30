@@ -167,6 +167,16 @@ The refresh process can run on a schedule using [scheduler.py](/Users/HP/Desktop
 - category mix summary
 - payment mix summary
 
+## Dashboard Preview
+
+Add a Streamlit dashboard screenshot at:
+
+`assets/streamlit-dashboard.png`
+
+Then GitHub will render it here:
+
+![Myanmar Retail Streamlit Dashboard](assets/streamlit-dashboard.png)
+
 ## Data Model
 
 ### `dim_product`

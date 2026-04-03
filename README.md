@@ -31,6 +31,23 @@ This system is built around those business questions. That makes it more than a 
 - automated refresh with APScheduler
 - Windows Task Scheduler setup for local automation
 
+## Data Modeling Study Guide
+
+If you want to learn and share data modeling with this project, start here:
+
+- [docs/data-modeling/README.md](c:\Users\HP\Desktop\Myn_retail\docs\data-modeling\README.md)
+
+The guide walks through:
+
+- entities, events, and relationships
+- how this project represents retail reality
+- star schema and fact table grain
+- how to evolve the model in a future-proof way
+
+Myanmar version:
+
+- [docs/data-modeling/README-mm.md](c:\Users\HP\Desktop\Myn_retail\docs\data-modeling\README-mm.md)
+
 ## What You Will Learn
 
 This single project helps you practice:
